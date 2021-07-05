@@ -1,0 +1,5 @@
+[user]
+	email = romanbrick@icloud.com
+	name = roman goryachev
+[alias]
+	history = log --graph
